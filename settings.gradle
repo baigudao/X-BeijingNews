@@ -1,0 +1,1 @@
+include ':slidingmenu', ':SlidingMenu_library', ':viewpager+radiogroup'
