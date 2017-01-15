@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/SlidingMenu_library/SlidingMenu_library.iml" filepath="$PROJECT_DIR$/SlidingMenu_library/SlidingMenu_library.iml" />
       <module fileurl="file://$PROJECT_DIR$/X-BeijingNews.iml" filepath="$PROJECT_DIR$/X-BeijingNews.iml" />
       <module fileurl="file://$PROJECT_DIR$/slidingmenu/slidingmenu.iml" filepath="$PROJECT_DIR$/slidingmenu/slidingmenu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewpager/viewpager.iml" filepath="$PROJECT_DIR$/viewpager/viewpager.iml" />
       <module fileurl="file://$PROJECT_DIR$/viewpager+radiogroup/viewpager+radiogroup.iml" filepath="$PROJECT_DIR$/viewpager+radiogroup/viewpager+radiogroup.iml" />
     </modules>
   </component>
