@@ -1,1 +1,1 @@
-include ':slidingmenu', ':SlidingMenu_library', ':viewpager+radiogroup', ':viewpager'
+include ':slidingmenu', ':SlidingMenu_library', ':viewpager+radiogroup', ':viewpager', ':tablayout+viewpager'

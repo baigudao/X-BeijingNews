@@ -1,9 +1,5 @@
 [
     {
-        "merged": "E:\\android-pre-ws\\X-BeijingNews\\SlidingMenu_library\\build\\intermediates\\res\\merged\\release\\layout\\slidingmenumain.xml",
-        "source": "E:\\android-pre-ws\\X-BeijingNews\\SlidingMenu_library\\res\\layout\\slidingmenumain.xml"
-    },
-    {
         "merged": "E:\\android-as-ws\\X-BeijingNews\\SlidingMenu_library\\build\\intermediates\\res\\merged\\release\\layout\\slidingmenumain.xml",
         "source": "E:\\android-as-ws\\X-BeijingNews\\SlidingMenu_library\\res\\layout\\slidingmenumain.xml"
     }
