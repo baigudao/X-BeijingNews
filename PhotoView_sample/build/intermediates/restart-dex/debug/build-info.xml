@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="23"
+    density="xxhdpi"
+    format="7"
+    timestamp="15320184303102"
+    token="-5157922055719091066" >
+
+    <task
+        name="javac"
+        duration="811" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="422" />
+    <task
+        name="verifier"
+        duration="78" />
+
+    <artifact
+        location="E:\android-as-ws\X-BeijingNews\PhotoView_sample\build\outputs\apk\PhotoView_sample-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="15320184303102" >
+        <artifact
+            location="E:\android-as-ws\X-BeijingNews\PhotoView_sample\build\outputs\apk\PhotoView_sample-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
